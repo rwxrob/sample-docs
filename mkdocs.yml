@@ -8,3 +8,5 @@ repo_name: rwxrob/sample-docs
 repo_url: https://github.com/rwxrob/sample-docs
 
 copyright: Copyright &copy; 2016 - 2023 Rob Muhlestein
+
+docs_dir: /docs
