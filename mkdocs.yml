@@ -1,0 +1,12 @@
+site_name: Sample Team Documentation Site
+site_url: https://rwxrob.github.io/sample-docs/
+site_author: Rob Muhlestein
+site_description: >-
+  This is the entry page of a sample project maintained fictionally by a large team.
+
+repo_name: rwxrob/sample-docs
+repo_url: https://github.com/rwxrob/sample-docs
+
+copyright: Copyright &copy; 2016 - 2023 Rob Muhlestein
+
+docs_dir: /docs
